@@ -1,4 +1,5 @@
 # Correlation and regression for data analysis
+# Date : 19.10 2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,6 +22,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```python
+
+Developed By : Tharun.V
+Register Number : 24005351
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
